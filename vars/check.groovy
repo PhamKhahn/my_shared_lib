@@ -1,3 +1,3 @@
 def info(message){
-    println("This is my ${message}")
+    println("This is my lib ${message}")
 }
